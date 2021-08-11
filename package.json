@@ -1,0 +1,16 @@
+{
+  "name": "05_coming-soon-wide",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dievai": "live-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["html", "css", "js"],
+  "author": "Mantvydas Labanauskas",
+  "license": "ISC",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
